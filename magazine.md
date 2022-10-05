@@ -47,9 +47,10 @@
 [in1]: https://github.com/DV73RU/oa_docs/blob/master/interested.png
 
 ## 4 - Блок "Про жизнь онлайн журнала"
-![alt-текст][in2]
 
-[in2]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png
+[alt-текст](https://github.com/DV73RU/oa_docs/blob/master/interested_1.png "Текст заголовка логотипа 1")
+
+
 
 ## 5 - Блок "Каталог статей/Все статьи"
 Для неавторизованного пользователя отображается только "Каталог статей"
