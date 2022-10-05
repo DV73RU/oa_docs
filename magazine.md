@@ -51,7 +51,7 @@
 
 ![alt-текст][logo]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png "Текст заголовка логотипа 2"
+[logo]: https://github.com/DV73RU/oa_docs/blob/master/img/interested.png "Текст заголовка логотипа 2"
 
 
 ## 5 - Блок "Каталог статей/Все статьи"
@@ -81,4 +81,4 @@
 
 ![alt-текст][logo]
 
-[logo]:https://github.com/DV73RU/oa_docs/blob/master/img/interested_5.png 
+[logo]: https://github.com/DV73RU/oa_docs/blob/master/img/interested_5.png 
