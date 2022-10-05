@@ -73,3 +73,7 @@
 ![alt-текст][logo]
 
 [logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_4.png "Текст заголовка логотипа 2"
+
+## 7 - Блок "Футер"
+
+Идентичен для всех страниц имеющих футер
