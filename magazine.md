@@ -42,3 +42,6 @@
 [http://www.screencapture.ru/file/70eeEb57](http://www.screencapture.ru/file/70eeEb57)
 
 ## 3 - Блок "Вас может заинтересовать"
+![alt-текст][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
