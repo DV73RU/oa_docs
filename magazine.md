@@ -49,36 +49,35 @@
 
 ## 4 - Блок "Про жизнь онлайн журнала"
 
-![alt-текст][logo]
+![alt-текст][img]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/img/interested.png "Текст заголовка логотипа 2"
+[img]: https://github.com/DV73RU/oa_docs/blob/master/img/interested.png "Текст заголовка логотипа 2"
 
 
 ## 5 - Блок "Каталог статей/Все статьи"
 Для неавторизованного пользователя отображается только "Каталог статей"
 
-![alt-текст][logo]
-
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_2.png "Текст заголовка логотипа 2"
+![alt-текст][img_2]
+[img_2]: https://github.com/DV73RU/oa_docs/blob/master/interested_2.png "Текст заголовка логотипа 2"
 
 Для авторизованного пользователя после блока закладки отображается тот же блок, только с названием "Все статьи"
 
-![alt-текст][logo]
+![alt-текст][img_3]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_3.png "Текст заголовка логотипа 2"
+[img_3]: https://github.com/DV73RU/oa_docs/blob/master/interested_3.png "Текст заголовка логотипа 2"
 
 ## 6 - Блок "Нет времени следить за обновлениями?"
 
 Статичный блок с элементами ввода электронной почты. Верстается по утвержденному макету.
 
-![alt-текст][logo]
+![alt-текст][img_4]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_4.png "Текст заголовка логотипа 2"
+[img_4]: https://github.com/DV73RU/oa_docs/blob/master/interested_4.png "Текст заголовка логотипа 2"
 
 ## 7 - Блок "Футер"
 
 Идентичен для всех страниц имеющих футер
 
-![alt-текст][logo]
+![alt-текст][img_5]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/img/interested_5.png 
+[img_5]: https://github.com/DV73RU/oa_docs/blob/master/img/interested_5.png 
