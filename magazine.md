@@ -44,4 +44,4 @@
 ## 3 - Блок "Вас может заинтересовать"
 ![alt-текст][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested.png
