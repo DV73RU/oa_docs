@@ -61,3 +61,8 @@
 
 [logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_2.png "Текст заголовка логотипа 2"
 
+Для авторизованного пользователя после блока закладки отображается тот же блок, только с названием "Все статьи"
+
+![alt-текст][logo]
+
+[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_3.png "Текст заголовка логотипа 2"
