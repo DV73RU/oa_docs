@@ -81,4 +81,4 @@
 
 ![alt-текст][logo]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/img/interested_5.png "Текст заголовка логотипа 2"
+[logo]:https://github.com/DV73RU/oa_docs/blob/master/img/interested_5.png 
