@@ -45,3 +45,12 @@
 ![alt-текст][logo]
 
 [logo]: https://github.com/DV73RU/oa_docs/blob/master/interested.png
+
+## 4 - Блок "Про жизнь онлайн журнала"
+![alt-текст][logo]
+
+[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png
+
+## 5 - Блок "Каталог статей/Все статьи"
+Для неавторизованного пользователя отображается только "Каталог статей"
+
