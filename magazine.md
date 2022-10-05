@@ -51,9 +51,6 @@
 
 [logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png "Текст заголовка логотипа 2"
 
-[alt-текст](https://github.com/DV73RU/oa_docs/blob/master/interested_1.png "Текст заголовка логотипа 1")
-
-
 
 ## 5 - Блок "Каталог статей/Все статьи"
 Для неавторизованного пользователя отображается только "Каталог статей"
