@@ -42,14 +42,14 @@
 [http://www.screencapture.ru/file/70eeEb57](http://www.screencapture.ru/file/70eeEb57)
 
 ## 3 - Блок "Вас может заинтересовать"
-![alt-текст][logo]
+![alt-текст][in1]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested.png
+[in1]: https://github.com/DV73RU/oa_docs/blob/master/interested.png
 
 ## 4 - Блок "Про жизнь онлайн журнала"
-![alt-текст][logo]
+![alt-текст][in2]
 
-[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png
+[in2]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png
 
 ## 5 - Блок "Каталог статей/Все статьи"
 Для неавторизованного пользователя отображается только "Каталог статей"
