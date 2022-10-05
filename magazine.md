@@ -47,6 +47,9 @@
 [in1]: https://github.com/DV73RU/oa_docs/blob/master/interested.png
 
 ## 4 - Блок "Про жизнь онлайн журнала"
+![alt-текст][logo]
+
+[logo]: https://github.com/DV73RU/oa_docs/blob/master/interested_1.png "Текст заголовка логотипа 2"
 
 [alt-текст](https://github.com/DV73RU/oa_docs/blob/master/interested_1.png "Текст заголовка логотипа 1")
 
